@@ -8,7 +8,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
 /**
- * Created by toutou on 2018/5/28.
+ *
+ * 定义  
+ * @author luopf
+ * @data 2018/11/21
  */
 @Controller
 public class messageController {
